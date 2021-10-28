@@ -38,7 +38,6 @@ const InfoSection = ({
               <TopLine>{topLine}</TopLine>
               <Heading lightText={lightText}> {headline} </Heading>
               <Subtitle darkText={darkText}> {description} </Subtitle>
-
             </TextWrapper>
             </Column1>
             <Column2>
